@@ -1,11 +1,10 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
+  name: "Sean Mahoney",
   jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
+  about: `I'm a software engineer based in St Petersburg, Florida.
    I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
+   I have 6 years of Front-end Development experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
    I have successfully completed several web projects from scratch. 
    Yet, I learn continuously and never stop exploring new technologies.
    So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
@@ -14,75 +13,74 @@ export const info = {
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "American Expres",
+      location: "New York, NY",
+      startDate: "May 2024",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "✓ Writing high-quality code for digital platforms using HTML, CSS and Javascript.",
+        "✓ Building reusable digital experiences while managing and customizing modular web content.", 
+        "✓ Executing development for a range of multiple parallel project engagements.",
+        "✓ Producing, maintaining, and modifying digital experiences and user interfaces.",
+        "✓ Partnering with the UX/UI, copy and design teams to setup digital experiences for success from the ideation stage.",
+        "✓ Ensuring all digital experiences align to industry standards and best practices.", 
+        "✓ Partnering with QA team to troubleshoot and resolve defects.",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Lighthouse Creative Group;",
+      location: "New York, NY",
+      startDate: "July 2022",
+      endDate: "Aug 2023",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "✓ Design, implement, and maintain custom web applications for enterprise clients using Adobe Experience Manager, Hubspot, Salesforce Marketing Cloud, and Wordpress",
+        "✓ Providing support and maintenance for existing systems",
+        "✓ Work closely with cross-functional teams to ensure that all stakeholders are involved and informed throughout the development process",
+        "✓ Delivering successful projects on time and within budget",
       ],
     },
 
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "DT Professional Services",
+      location: "Los Angeles, CA",
+      startDate: "September 2020",
+      endDate: "October 2021",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "✓ Implementing and managing content management platforms for complex, high-volume, transactional websites with high-profile clients",
+        "✓ Concepting and implementing enterprise content management solutions based on AEM",
+        "✓ Supporting the transfer of AEM into the development and operating environment of the EPD (AEM architecture and staging)",
+        "✓ Java-based development of release-capable AEM software components and implementing web frontend HTML templates in AEM JSP templates",
+        "✓ Supported the product owner in the assessment of requirements with regard to AEM architecture, technologies, internal interfaces or connections to third-party systems",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Google",
+      location: "New York, NY",
+      startDate: "203",
+      endDate: "2023",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Generative AI Fundamentals",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "Pace University - Lubin School of Business",
+      location: "New York, NY",
+      startDate: "2013",
+      endDate: "2016",
+      description: [
+        "Bachelor of Business Administration (B.B.A.), Accounting and Internal Audit",
+      ],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    github: "https://github.com/technosheen",
+    email: "mailto:sean@thisisoutmost.com",
+    linkedin: "https://www.linkedin.com/in/technosheen/",
   },
 
   projects: [
