@@ -14,7 +14,9 @@ const { title, jobTitle, company, details } = Astro.props as IExperiences;
         <div class="my-16">
           <div class="flex justify-between items-center flex-wrap">
             <h3 class="text-xl font-semibold">{item.jobTitle}</h3>
-            <h3 class="text-xl font-semibold">{item.company}</h3>
+        </div>
+          <div class="flex justify-between items-center flex-wrap">
+            <h5 class="text-xl font-semibold">{item.company}</h5>
             <p class="text-sm dark:text-gray">
               {item.startDate} - {item.endDate}
             </p>

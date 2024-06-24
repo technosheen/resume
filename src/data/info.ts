@@ -13,8 +13,8 @@ export const info = {
 
   experience: [
     {
-      title: "AEM Developer",
-      name: "American Express",
+      jobTitle: "AEM Developer",
+      company: "American Express",
       location: "New York, NY",
       startDate: "May 2024",
       endDate: "Present",
@@ -30,8 +30,8 @@ export const info = {
     },
 
     {
-      title: "Software Developer",
-      name: "Lighthouse Creative Group;",
+      jobTitle: "Software Developer",
+      company: "Lighthouse Creative Group;",
       location: "New York, NY",
       startDate: "July 2022",
       endDate: "Aug 2023",
@@ -44,8 +44,8 @@ export const info = {
     },
 
     {
-      title: "AEM Developer",
-      name: "DT Professional Services",
+      jobTitle: "AEM Developer",
+      company: "DT Professional Services",
       location: "Los Angeles, CA",
       startDate: "September 2020",
       endDate: "October 2021",
@@ -59,8 +59,8 @@ export const info = {
     },
 
     {
-      title: "Web Developer",
-      name: "Reed Exhibitions",
+      jobTitle: "Web Developer",
+      company: "Reed Exhibitions",
       location: "New York, NY",
       startDate: "February 2020",
       endDate: "August 2020",
@@ -72,8 +72,8 @@ export const info = {
     },
 
     {
-      title: "Workday Integrations Senior Analyst",
-      name: "Accenture",
+      jobTitle: "Workday Integrations Senior Analyst",
+      company: "Accenture",
       location: "New York, NY",
       startDate: "May 2019",
       endDate: "November 2019",
@@ -86,8 +86,8 @@ export const info = {
     },
 
     {
-      title: "Interim Marketing Director",
-      name: "HUDSON",
+      jobTitle: "Interim Marketing Director",
+      company: "HUDSON",
       location: "New York, NY",
       startDate: "September 2018",
       endDate: "January 2019",
@@ -101,8 +101,8 @@ export const info = {
     },
 
     {
-      title: "Marketing Coodinator",
-      name: "Pat Munger Construction Company, Inc.",
+      jobTitle: "Marketing Coodinator",
+      company: "Pat Munger Construction Company, Inc.",
       location: "Greater New York City Area",
       startDate: "November 2016",
       endDate: "May 2017",
@@ -114,8 +114,8 @@ export const info = {
     },
 
     {
-      title: "Inventory Cost Analyst",
-      name: "Diamonds International",
+      jobTitle: "Inventory Cost Analyst",
+      company: "Diamonds International",
       location: "New York, NY",
       startDate: "May 2015",
       endDate: "January 2016",
@@ -127,8 +127,8 @@ export const info = {
     },
 
     {
-      title: "Accounting Associate Executive Finance",
-      name: "Bridgewater Associates",
+      jobTitle: "Accounting Associate Executive Finance",
+      company: "Bridgewater Associates",
       location: "Greater New York City Area",
       startDate: "January 2015",
       endDate: "March 2015",
@@ -140,8 +140,8 @@ export const info = {
     },
 
     {
-      title: "Assistant Shipping Manager",
-      name: "LifeGlobal Group",
+      jobTitle: "Assistant Shipping Manager",
+      company: "LifeGlobal Group",
       location: "Greater New York City Area",
       startDate: "September 2013",
       endDate: "December 2014",
