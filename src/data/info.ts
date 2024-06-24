@@ -31,7 +31,7 @@ export const info = {
 
     {
       jobTitle: "Software Developer",
-      company: "Lighthouse Creative Group;",
+      company: "Lighthouse Creative Group",
       location: "New York, NY",
       startDate: "July 2022",
       endDate: "Aug 2023",
