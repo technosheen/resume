@@ -10,7 +10,8 @@ export interface IHeroProps {
 }
 
 export interface IExperience {
-  name: string;
+  jobTitle: string;
+  company: string;
   location: string;
   startDate: string;
   endDate: string;

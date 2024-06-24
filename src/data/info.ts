@@ -13,7 +13,8 @@ export const info = {
 
   experience: [
     {
-      name: "American Expres",
+      title: "AEM Developer",
+      name: "American Express",
       location: "New York, NY",
       startDate: "May 2024",
       endDate: "Present",
@@ -29,6 +30,7 @@ export const info = {
     },
 
     {
+      title: "Software Developer",
       name: "Lighthouse Creative Group;",
       location: "New York, NY",
       startDate: "July 2022",
@@ -42,6 +44,7 @@ export const info = {
     },
 
     {
+      title: "AEM Developer",
       name: "DT Professional Services",
       location: "Los Angeles, CA",
       startDate: "September 2020",
@@ -54,6 +57,101 @@ export const info = {
         "✓ Supported the product owner in the assessment of requirements with regard to AEM architecture, technologies, internal interfaces or connections to third-party systems",
       ],
     },
+
+    {
+      title: "Web Developer",
+      name: "Reed Exhibitions",
+      location: "New York, NY",
+      startDate: "February 2020",
+      endDate: "August 2020",
+      description: [
+        "✓ Work within Adobe Experience Manager to manage the day-to-day maintenance for different portfolio and conference websites",
+        "✓ Tweak CMS to optimize content. Managing requests to ensure website maintenance is released within SLA guidelines",
+        "✓ Maintaining internal documentation outlining what information is available on each site",
+      ],
+    },
+
+    {
+      title: "Workday Integrations Senior Analyst",
+      name: "Accenture",
+      location: "New York, NY",
+      startDate: "May 2019",
+      endDate: "November 2019",
+      description: [
+        "✓ Designed, prototyped, and built Workday systems",
+        "✓ Top-to-bottom knowledge of Workday ensuring clients worked smarter",
+        "✓ Spotted strategies for clients, explained their pros and cons, and then got working on the best one",
+        "✓ Helped clients understand and follow industry standards and practices",
+      ],
+    },
+
+    {
+      title: "Interim Marketing Director",
+      name: "HUDSON",
+      location: "New York, NY",
+      startDate: "September 2018",
+      endDate: "January 2019",
+      description: [
+        "✓ Directed development of interactive, direct marketing, media, creative, sales promotion and PR strategies and assets",
+        "✓ Pioneered and implemented new lead generation processes",
+        "✓ Built a relational database for marketing assets, campaigns, and properties",
+        "✓ Designed, oversaw and optimized all email marketing campaigns",
+        "✓ Created analytics program to track and review site performance",
+      ],
+    },
+
+    {
+      title: "Marketing Coodinator",
+      name: "Pat Munger Construction Company, Inc.",
+      location: "Greater New York City Area",
+      startDate: "November 2016",
+      endDate: "May 2017",
+      description: [
+        "✓ As the company's first marketing hire, I worked closely with Vice President to develop the marketing plan and department",
+        "✓ Spearheaded budget development, SEO strategy, website updates, content creation, analytics reporting, and email marketing",
+        "✓ Advised management on industry trends, tech, and how to set and determine KPIs",
+      ],
+    },
+
+    {
+      title: "Inventory Cost Analyst",
+      name: "Diamonds International",
+      location: "New York, NY",
+      startDate: "May 2015",
+      endDate: "January 2016",
+      description: [
+        "✓ Operated as sole internal auditor for entire company",
+        "✓ Monitored cost and inventory controls, including cost changes, purchase order reviews, and investigations into cycle count variances",
+        "✓ Advised Chief Financial Officer on year-end close and annual Diamond Trading Commission audit",
+      ],
+    },
+
+    {
+      title: "Accounting Associate Executive Finance",
+      name: "Bridgewater Associates",
+      location: "Greater New York City Area",
+      startDate: "January 2015",
+      endDate: "March 2015",
+      description: [
+        "✓ Processed and maintained all bill pay, general ledgers, financial reporting, cash management, and managing the monthly close",
+        "✓ Compiled information, analysis, and reports needed for tax returns",
+        "✓ Prepared bank, investment, credit card reconciliations and reviewed disbursements, bank reconciliations, credit card transactions, general ledgers, and financial statements",
+      ],
+    },
+
+    {
+      title: "Assistant Shipping Manager",
+      name: "LifeGlobal Group",
+      location: "Greater New York City Area",
+      startDate: "September 2013",
+      endDate: "December 2014",
+      description: [
+        "✓ Maintained immaculate product records in compliance with strict ISO 13485 medical regulations",
+        "✓ Conducted weekly cycle counts on inventory and investigated any discrepancies",
+        "✓ Organized and fulfilled supply chain shipments to multiple international offices",
+      ],
+    },
+
   ],
 
   education: [
@@ -85,11 +183,32 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Bakkt",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/bakkt-portfolio.png",
+      githubUrl: "https://gist.github.com/technosheen/da820ebf0bcdba5576e4afdc9b0f0652",
+      liveUrl: "https://bakkt.com/",
+    },
+    {
+      title: "Digital Asset Resource Library",
+      isFeatured: true,
+      thumbnail: "/assets/images/da-portfolio.png",
+      githubUrl: "https://github.com/technosheen/da-resource-library-hubdb",
+      liveUrl: "https://digitalasset.com/",
+    },
+    {
+      title: "Digital Asset Resource Library",
+      isFeatured: true,
+      thumbnail: "/assets/images/convera-portfolio.png",
+      githubUrl: "https://github.com/technosheen/convera-pardot",
+      liveUrl: "https://convera.com/",
+    },
+    {
+      title: "ElastiCamp",
+      isFeatured: true,
+      thumbnail: "/assets/images/elastic-portfolio.png",
+      githubUrl: "https://github.com/technosheen/elasticamp-wp-html",
+      liveUrl: "https://technosheen.github.io/elasticamp-wp-html/",
     },
   ],
 };
